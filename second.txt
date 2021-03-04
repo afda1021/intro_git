@@ -8,3 +8,4 @@
 ・sampleブランチ変更
 ・masterブランチ変更
 ・master
+・master
