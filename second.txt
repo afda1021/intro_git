@@ -1,2 +1,5 @@
 新規作成したファイル
-ブランチについて学習
+・ブランチについて学習
+・git branch sample
+・git checkout sample
+・git push origin sample
