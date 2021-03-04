@@ -6,3 +6,4 @@
 ・sampleブランチ変更
 ・sampleブランチ変更
 ・sampleブランチ変更
+・masterブランチ変更
