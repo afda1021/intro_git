@@ -8,3 +8,6 @@ Gitの練習をしてきます。
 
 merge
 1
+
+sample4
+1
